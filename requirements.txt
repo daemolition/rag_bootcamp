@@ -10,3 +10,5 @@ sentence-transformers
 pypdf
 python-dotenv
 pandas
+python-docx
+docx2txt
