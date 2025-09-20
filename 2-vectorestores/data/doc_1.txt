@@ -1,0 +1,1 @@
+Deep learning is a type of machine learning that uses neural networks with multiple layers to learn and extract features from complex data, such as images, sound, and text. It has achieved state-of-the-art results in many domains, including image recognition, natural language processing, and speech recognition.

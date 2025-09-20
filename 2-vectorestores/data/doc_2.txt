@@ -1,0 +1,1 @@
+Embeddings are numerical representations of words or phrases that capture their meaning and context. They are used in various applications, such as information retrieval, sentiment analysis, and recommendation systems. Embeddings can be learned from large text corpora using deep learning techniques.

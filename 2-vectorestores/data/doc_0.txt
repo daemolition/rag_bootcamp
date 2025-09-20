@@ -1,0 +1,1 @@
+Machine learning involves teaching computers to learn from and make predictions on data. It is a subset of artificial intelligence (AI) that focuses on developing algorithms and statistical models to enable machines to improve their performance on specific tasks over time.

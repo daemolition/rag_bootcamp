@@ -6,9 +6,13 @@ langchain_community
 langchain_openai
 langchain_ollama
 chromadb
-sentence-transformers
 pypdf
 python-dotenv
 pandas
 python-docx
 docx2txt
+python-dotenv
+
+##Embeddings
+langchain-huggingface
+sentence-transformers
