@@ -12,7 +12,10 @@ pandas
 python-docx
 docx2txt
 python-dotenv
+langchain_experimental
+langchain_groq
 
 ##Embeddings
 langchain-huggingface
 sentence-transformers
+rank_bm25
