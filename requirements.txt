@@ -14,8 +14,9 @@ docx2txt
 python-dotenv
 langchain_experimental
 langchain_groq
+wikipedia
 
-##Embeddings
+# Embeddings
 langchain-huggingface
 sentence-transformers
 rank_bm25
