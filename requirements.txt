@@ -7,6 +7,11 @@ langchain_openai
 langchain_ollama
 chromadb
 pypdf
+pymupdf
+faiss-cpu
+transformers
+scikit-learn 
+fitz
 python-dotenv
 pandas
 python-docx
@@ -15,6 +20,11 @@ python-dotenv
 langchain_experimental
 langchain_groq
 wikipedia
+torch
+frontend
+tools
+IProgress
+tqdm
 
 # Embeddings
 langchain-huggingface
